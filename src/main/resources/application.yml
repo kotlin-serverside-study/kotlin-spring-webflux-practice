@@ -1,0 +1,5 @@
+spring:
+  r2dbc:
+    url: r2dbc:mysql://localhost:13009/kopring?useSSL=false&allowPublicKeyRetrieval=true
+    username: kopring
+    password: ko1234
